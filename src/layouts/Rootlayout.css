@@ -1,0 +1,27 @@
+.root-layout{
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    overflow-x:hidden ;
+}
+
+main{
+    display: block;
+}
+
+header {
+    width: 100vw;
+    height: 128px;
+    background-color: var(--background-color);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+footer {
+    width: 100vw;
+    background-color: var(--background-color);
+
+}
+
+
