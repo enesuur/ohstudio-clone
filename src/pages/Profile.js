@@ -36,7 +36,7 @@ export default function Profile() {
             <div className='profile-collabs'>
                 <div className='collab-item'>
                     <p className='collab-time'>2017 - Present</p>
-                    <p className='collab-name'>OH.STUDIO</p>
+                    <p className='collab-name'>XXX.STUDIO</p>
                     <p className='job-title'>Freelance Designer</p>
                     <p className='job-position'>Director</p>
                 </div>
